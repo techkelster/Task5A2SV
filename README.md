@@ -15,10 +15,9 @@ A simple Todo List application built with React and TypeScript.
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
-## Deployment
+## ScreenShots
 
-The app can be deployed using any static site hosting service.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
+![alt intial_page](src/assets/intial_page.png)
+![alt task_added](src/assets/task_added.png)
+![alt task_completed](src/assets/task_compeleted.png)
+![alt task_edited](src/assets/task_edited.png)
